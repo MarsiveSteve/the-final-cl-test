@@ -1,2 +1,2 @@
-#!bin/bash
-bash my_answer.sh | cat -e
+#!/bin/bash
+echo "John Doe " 
